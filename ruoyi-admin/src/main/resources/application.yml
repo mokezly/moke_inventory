@@ -121,3 +121,6 @@ xss:
   excludes: /system/notice/*
   # 匹配链接
   urlPatterns: /system/*,/monitor/*,/tool/*
+
+#log:
+ # home: /Users/moke/IdeaProjects/moke_inventory/log
